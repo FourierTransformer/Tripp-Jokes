@@ -41,3 +41,8 @@ When the FACEUP PILE is exhausted, player's will play with whatever cards are in
 If the current player has no more PENULTIMATE cards, they must randomly choose a FINAL card to play. The card must be shown to everyone and if it doesn't match or exceed the topmost card in the FACEUP PILE, the FACEUP PILE should be added to the player's HAND.
 
 Also, if the PENULTIMATE cards are exhausted by playing a 2 or 10, a FINAL card can be chosen at random to play on the player's turn.
+
+Once a player has exhausted all their cards, they are deemed the winner. The game can then continue until all but one player has exhausted all their cards.
+
+## Interesting Scenarios
+
